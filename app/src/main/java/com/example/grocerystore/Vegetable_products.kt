@@ -60,20 +60,20 @@ class Vegetable_products : AppCompatActivity() {
         myCart.cart_items.add(vg_3.name)
         myCart.cart_total += vg_3.price
         vg_3.amount += vg_3.amount
-        Toast.makeText(this,  " ${vg_3.name}has been added to the cart", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this,  " ${vg_3.name} has been added to the cart", Toast.LENGTH_SHORT).show()
     }
 
     private fun addVeg2() {
         myCart.cart_items.add(vg_2.name)
         myCart.cart_total += vg_2.price
         vg_2.amount += vg_2.amount
-        Toast.makeText(this, " ${vg_2.name}has been added to the cart", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, " ${vg_2.name} has been added to the cart", Toast.LENGTH_SHORT).show()
     }
 
     private fun addVeg1() {
         myCart.cart_items.add(vg_1.name)
         myCart.cart_total += vg_1.price
         vg_1.amount += vg_1.amount
-        Toast.makeText(this, " ${vg_1.name}has been added to the cart", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, " ${vg_1.name} has been added to the cart", Toast.LENGTH_SHORT).show()
     }
 }

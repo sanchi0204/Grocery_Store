@@ -68,7 +68,7 @@ class Cereal_products : AppCompatActivity() {
         myCart.cart_items.add(cr_2.name)
         myCart.cart_total += cr_2.price
         cr_2.amount += cr_2.amount
-        Toast.makeText(this,  " ${cr_2.name}has been added to the cart", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this,  " ${cr_2.name} has been added to the cart", Toast.LENGTH_SHORT).show()
     }
 
     private fun addCer1() {
