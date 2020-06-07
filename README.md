@@ -19,7 +19,7 @@ A simple grocery store app made to learn the basic concepts of Kotlin.
 
 ### GROCERS
 
-<img src="https://github.com/sanchi0204/Grocery_Store/blob/master/Screenshots/1.jpg" width="300" height="500" /> <img src="https://github.com/sanchi0204/Grocery_Store/blob/master/Screenshots/2.jpg" width="300" height="500" /> <"https://github.com/sanchi0204/Grocery_Store/blob/master/Screenshots/4.jpg" width="300" height="500" />
+<img src="https://github.com/sanchi0204/Grocery_Store/blob/master/Screenshots/1.jpg" width="300" height="500" /> <img src="https://github.com/sanchi0204/Grocery_Store/blob/master/Screenshots/2.jpg" width="300" height="500" /> <img src="https://github.com/sanchi0204/Grocery_Store/blob/master/Screenshots/4.jpg" width="300" height="500" />
 
 <img src="https://github.com/sanchi0204/Grocery_Store/blob/master/Screenshots/5.jpg" width="300" height="500" /> <img src="https://github.com/sanchi0204/Grocery_Store/blob/master/Screenshots/6.jpg" width="300" height="500" /> <img src="https://github.com/sanchi0204/Grocery_Store/blob/master/Screenshots/7.jpg" width="300" height="500" />
 
