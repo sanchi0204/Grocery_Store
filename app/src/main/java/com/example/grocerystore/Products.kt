@@ -19,7 +19,7 @@ class Fruit_1 : ProductInfo() {
 class Fruit_2 : ProductInfo() {
     override val type = "Fruits"
     override val name = "Banana"
-    override val price = 20
+    override val price = 25
     override var amount = 12.0
 }
 
