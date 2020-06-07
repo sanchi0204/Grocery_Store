@@ -52,27 +52,27 @@ class Fruit_Products : AppCompatActivity() {
         myCart.cart_items.add(fr_4.name)
         myCart.cart_total += fr_4.price
         fr_4.amount += fr_4.amount
-        Toast.makeText(this, fr_4.name + " has been added to the cart", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this,  " ${fr_4.name} has been added to the cart", Toast.LENGTH_SHORT).show()
     }
 
     private fun addFruit3() {
         myCart.cart_items.add(fr_3.name)
         myCart.cart_total += fr_3.price
         fr_3.amount += fr_3.amount
-        Toast.makeText(this, fr_3.name + " has been added to the cart", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this,  "${fr_3.name} has been added to the cart", Toast.LENGTH_SHORT).show()
     }
 
     private fun addFruit2() {
         myCart.cart_items.add(fr_2.name)
         myCart.cart_total += fr_2.price
         fr_2.amount += fr_2.amount
-        Toast.makeText(this, fr_2.name + " has been added to the cart", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, " ${fr_2.name}has been added to the cart", Toast.LENGTH_SHORT).show()
     }
 
     private fun addFruit1() {
         myCart.cart_items.add(fr_1.name)
         myCart.cart_total += fr_1.price
         fr_1.amount += fr_1.amount
-        Toast.makeText(this, fr_1.name + " has been added to the cart", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, " ${fr_1.name}has been added to the cart", Toast.LENGTH_SHORT).show()
     }
 }
